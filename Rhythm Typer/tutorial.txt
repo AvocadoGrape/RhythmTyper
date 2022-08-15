@@ -1,0 +1,3 @@
+Scroll wheel or +/- to change volume
+ESC to quit
+When the falling letters touch the line, press the corresponding key on the keyboard
